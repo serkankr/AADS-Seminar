@@ -1,0 +1,27 @@
+// Binary Tree
+digraph {
+	rankdir=TB
+	0 [label=69]
+	0 -> 1 [label=L]
+	1 [label=53]
+	1 -> 3 [label=L]
+	3 [label=45]
+	3 -> 7 [label=L]
+	7 [label=36]
+	7 -> 15 [label=L]
+	15 [label=25]
+	15 -> 31 [label=L]
+	31 [label=22]
+	31 -> 63 [label=L]
+	63 [label=20]
+	63 -> 127 [label=L]
+	127 [label=11]
+	3 -> 8 [label=R]
+	8 [label=49]
+	0 -> 2 [label=R]
+	2 [label=80]
+	2 -> 6 [label=R]
+	6 [label=94]
+	6 -> 13 [label=L]
+	13 [label=89]
+}

@@ -1,0 +1,261 @@
+Analysis Results for data_15.txt
+Started at: 2025-01-19 20:38:25.842252
+==================================================
+
+Step 1: Adding Elements
+==============================
+
+Adding 60 to reference-based tree (Element 1/15):
+Execution Time: 0.495308 seconds
+Memory Usage: 0.195312 MB
+--------------------------------------------------
+
+Adding 60 to array-based tree (Element 1/15):
+Execution Time: 0.477705 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Adding 53 to reference-based tree (Element 2/15):
+Execution Time: 0.507625 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 53 to array-based tree (Element 2/15):
+Execution Time: 0.601638 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Adding 80 to reference-based tree (Element 3/15):
+Execution Time: 0.616027 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 80 to array-based tree (Element 3/15):
+Execution Time: 0.653693 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 45 to reference-based tree (Element 4/15):
+Execution Time: 0.690122 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Adding 45 to array-based tree (Element 4/15):
+Execution Time: 0.716504 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 49 to reference-based tree (Element 5/15):
+Execution Time: 0.625324 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 49 to array-based tree (Element 5/15):
+Execution Time: 0.650037 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 48 to reference-based tree (Element 6/15):
+Execution Time: 0.609695 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 48 to array-based tree (Element 6/15):
+Execution Time: 0.705629 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Adding 33 to reference-based tree (Element 7/15):
+Execution Time: 0.696053 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 33 to array-based tree (Element 7/15):
+Execution Time: 0.622541 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 25 to reference-based tree (Element 8/15):
+Execution Time: 0.608385 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 25 to array-based tree (Element 8/15):
+Execution Time: 0.595239 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 94 to reference-based tree (Element 9/15):
+Execution Time: 0.601853 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 94 to array-based tree (Element 9/15):
+Execution Time: 0.586207 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Adding 36 to reference-based tree (Element 10/15):
+Execution Time: 0.601809 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Adding 36 to array-based tree (Element 10/15):
+Execution Time: 0.586189 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 89 to reference-based tree (Element 11/15):
+Execution Time: 0.617408 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 89 to array-based tree (Element 11/15):
+Execution Time: 0.586154 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 22 to reference-based tree (Element 12/15):
+Execution Time: 0.601833 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 22 to array-based tree (Element 12/15):
+Execution Time: 0.601479 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 20 to reference-based tree (Element 13/15):
+Execution Time: 0.601732 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 20 to array-based tree (Element 13/15):
+Execution Time: 0.601878 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 69 to reference-based tree (Element 14/15):
+Execution Time: 0.586250 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 69 to array-based tree (Element 14/15):
+Execution Time: 0.586255 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 11 to reference-based tree (Element 15/15):
+Execution Time: 0.586248 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Adding 11 to array-based tree (Element 15/15):
+Execution Time: 0.586244 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Step 2: Searching Element
+==============================
+
+Searching element in reference-based tree:
+Execution Time: 0.619074 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Searching element in array-based tree:
+Execution Time: 0.599392 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Step 3: Deleting Elements
+==============================
+
+Deleting 33 from reference-based tree:
+Execution Time: 0.601649 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Deleting 33 from array-based tree:
+Execution Time: 0.601798 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Deleting 48 from reference-based tree:
+Execution Time: 0.586279 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Deleting 48 from array-based tree:
+Execution Time: 0.601849 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Deleting 60 from reference-based tree:
+Execution Time: 0.591267 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Deleting 60 from array-based tree:
+Execution Time: 0.596925 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Step 4: Adding Elements Back
+==============================
+
+Re-adding 33 to reference-based tree:
+Execution Time: 0.606769 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Re-adding 33 to array-based tree:
+Execution Time: 0.590061 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Re-adding 48 to reference-based tree:
+Execution Time: 0.608381 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Re-adding 48 to array-based tree:
+Execution Time: 0.617448 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Re-adding 60 to reference-based tree:
+Execution Time: 0.579686 seconds
+Memory Usage: 0.035156 MB
+--------------------------------------------------
+
+Re-adding 60 to array-based tree:
+Execution Time: 0.601836 seconds
+Memory Usage: 0.003906 MB
+--------------------------------------------------
+
+Step 5: Creating Backbones
+==============================
+
+Create backbone (reference-based tree):
+Execution Time: 0.601533 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+Create backbone (array-based tree):
+Execution Time: 0.601892 seconds
+Memory Usage: 0.527344 MB
+--------------------------------------------------
+
+Step 6: DSW Algorithm
+==============================
+
+DSW on reference-based tree:
+Execution Time: 0.615219 seconds
+Memory Usage: 0.000000 MB
+--------------------------------------------------
+
+DSW on array-based tree:
+Execution Time: 0.617132 seconds
+Memory Usage: 0.308594 MB
+--------------------------------------------------
