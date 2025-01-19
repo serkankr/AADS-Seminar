@@ -1,0 +1,23 @@
+// Binary Tree
+digraph {
+	rankdir=TB
+	0 [label=25]
+	0 -> 2 [label=R]
+	2 [label=33]
+	2 -> 6 [label=R]
+	6 [label=36]
+	6 -> 14 [label=R]
+	14 [label=45]
+	14 -> 30 [label=R]
+	30 [label=48]
+	30 -> 62 [label=R]
+	62 [label=49]
+	62 -> 126 [label=R]
+	126 [label=53]
+	126 -> 254 [label=R]
+	254 [label=60]
+	254 -> 510 [label=R]
+	510 [label=80]
+	510 -> 1022 [label=R]
+	1022 [label=94]
+}
